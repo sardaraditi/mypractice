@@ -1,5 +1,14 @@
 main{
-    background-color: blue;
-    height: 300px;
-    width: 400px;
+    background-color: blueviolet;
+        height: 700px;
+    width: 1150px;
+}
+.title-section{
+    margin: auto;
+    text-align: center;
+}
+.city-section{
+    font-size: 20px;
+    font-family: 'Courier New';
+    color: chocolate;
 }
