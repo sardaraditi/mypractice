@@ -15,10 +15,18 @@ city? : string ; //declaration of property
 city2 :string ='pune' //declaration + defination of property
 
 city3 = 'mumbai'
+name= 'Aditi'
 
 constructor(){}  // to inject dependencies
 
 //life of hooks
 
 //functions
+
+//life cycle hooks 
+
+  //functions
+  
+  //string interpolation : one way data binding techniques: .ts to dom/html/template
+
 }

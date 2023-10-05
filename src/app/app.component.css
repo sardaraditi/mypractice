@@ -2,6 +2,9 @@ main{
     background-color: blueviolet;
         height: 700px;
     width: 1150px;
+    background-image: url('/assets/Images/nature.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .title-section{
     margin: auto;
@@ -11,4 +14,7 @@ main{
     font-size: 20px;
     font-family: 'Courier New';
     color: chocolate;
+}
+.nav{
+    background-color: crimson;
 }
